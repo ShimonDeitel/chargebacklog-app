@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: ChargebackDisputeLogTests
-      - path: ChargebackDisputeLog.storekit
     dependencies:
       - target: ChargebackDisputeLog
     settings:
